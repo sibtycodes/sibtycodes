@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sibtycodes
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning React JS | Next JS 
+- 🌱 I’m currently learning Next JS 13
 
 <!---
 sibtycodes/sibtycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
