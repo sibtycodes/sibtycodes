@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [BrainBoost](https://brainboosthub.vercel.app)
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Advanced AI integrations**
+- 🌱 I’m currently learning **Docker, Kubernetes, Advanced AI Integration**
 
-- 👯 I have done the project [SibtyEvents](https://sibtyevents.vercel.app)
+- 👯 I have done these projects [SibtyEvents](https://sibtyevents.vercel.app) 
 
 - 🤝 I’m open to suggestions for [SibtyMedia](https://sibty.vercel.app)
 
