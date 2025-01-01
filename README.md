@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BrainBoost](https://brainboosthub.vercel.app)
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Advanced AI Integration**
+- 🌱 I’m currently learning **Django, Docker, Kubernetes, AI Integration**
 
 - 👯 I have done these projects [SibtyEvents](https://sibtyevents.vercel.app) 
 
