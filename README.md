@@ -1,11 +1,11 @@
 <h1 align="center">Greetings 👋, I'm Syed Sibtain</h1>
 <h3 align="center">Full Stack developer</h3>
 
-- 🔭 I’m currently working on [BrainBoost](https://brainboosthub.vercel.app)
+- 🔭 I’m currently working on a react-django project
 
 - 🌱 I’m currently learning **Django, Docker, Kubernetes, AI Integration**
 
-- 👯 I have done these projects [SibtyEvents](https://sibtyevents.vercel.app) 
+- 👯 I have done these projects [SibtyEvents](https://sibtyevents.vercel.app) [BrainBoost](https://brainboosthub.vercel.app)
 
 - 🤝 I’m open to suggestions for [SibtyMedia](https://sibty.vercel.app)
 
