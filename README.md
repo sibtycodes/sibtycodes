@@ -9,11 +9,11 @@
 
 - 🤝 I’m open to suggestions for [SibtyMedia](https://sibty.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://sibtycodes.vercel.app](https://sibtycodes.vercel.app)
+- 👨‍💻 All of my projects are available at [sibtycodes.me](https://sibtycodes.me)
 
 - 💬 Ask me about **react.js, next.js, databases**
 
-- 📫 How to reach me **syedsibtain927@gmail.com**
+- 📫 How to reach me **sibtycodes@gmail.com**
 
 - ⚡ Hobbies **Gaming, Chess, Gym, Personal Projects**
 
