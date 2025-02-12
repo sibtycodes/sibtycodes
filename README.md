@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a react-django project
 
-- 🌱 I’m currently learning **Django, Docker, Kubernetes, AI Integration**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I have done these projects [SibtyEvents](https://sibtyevents.vercel.app) [BrainBoost](https://brainboosthub.vercel.app)
 
