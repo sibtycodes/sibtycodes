@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on a react-django project
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django & Flask**
 
 - 👯 I have done these projects [SibtyEvents](https://sibtyevents.vercel.app) [BrainBoost](https://brainboosthub.vercel.app)
 
-- 🤝 I’m open to suggestions for [SibtyMedia](https://sibty.vercel.app)
-
-- 👨‍💻 All of my projects are available at [sibtycodes.me](https://sibtycodes.me)
+- 👨‍💻 All of my projects are available at [sibty.tech](https://sibty.tech)
 
 - 💬 Ask me about **react.js, next.js, databases**
 
