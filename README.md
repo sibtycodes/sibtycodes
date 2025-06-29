@@ -1,9 +1,9 @@
 <h1 align="center">Greetings 👋, I'm Syed Sibtain</h1>
 <h3 align="center">Full Stack developer</h3>
 
-- 🔭 I’m currently working on a react-django project
+- 🔭 I’m currently working on [Vibstie](https://vibstie.com)
 
-- 🌱 I’m currently learning **.**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I have done these projects [SibtyEvents](https://sibtyevents.vercel.app) [BrainBoost](https://brainboosthub.vercel.app)
 
