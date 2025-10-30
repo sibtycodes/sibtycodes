@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I have done these projects [SibtyEvents](https://sibtyevents.vercel.app) [BrainBoost](https://brainboosthub.vercel.app)
-
 - 👨‍💻 All of my projects are available at [sibty.tech](https://sibty.tech)
 
 - 💬 Ask me about **react.js, next.js, databases**
