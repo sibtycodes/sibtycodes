@@ -1,9 +1,9 @@
 <h1 align="center">Greetings 👋, I'm Syed Sibtain</h1>
 <h3 align="center">Full Stack developer</h3>
 
-- 🔭 I’m currently working on [Personal Projects & FreeLance]
+- 🔭 I’m currently working on Personal Projects & FreeLance Work
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** & **Python Backend**
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/syed-sibtain-ali-shah-sibtycodes) & [Website](https://sibty.tech)
 
