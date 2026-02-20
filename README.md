@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Syed Sibtain</h1>
 <h3 align="center">Full Stack developer</h3>
 
-- 🔭 I’m currently working on [Vibstie](https://vibstie.com)
+- 🔭 I’m currently working on [Personal Projects & FreeLance]
 
 - 🌱 I’m currently learning **React Native**
 
