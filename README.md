@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋, I'm Syed Sibtain</h1>
+<h1 align="center">Greetings 👋, I'm Syed Sibtain Ali Shah</h1>
 <h3 align="center">Full Stack developer</h3>
 
 - 🔭 I’m currently working on Personal Projects & FreeLance Work
