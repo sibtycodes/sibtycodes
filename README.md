@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native** & **Python Backend**
 
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/syed-sibtain-ali-shah-sibtycodes) & [Website](https://sibty.tech)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/syed-sibtain-ali-shah-sibtycodes) & [Website](https://sibtytech.vercel.app)
 
 - 💬 Ask me about **react.js, next.js, databases**
 
